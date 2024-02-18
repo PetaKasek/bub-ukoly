@@ -1,0 +1,63 @@
+{
+    "name": "Ovocné palačinky",
+    "difficulty": 2,
+    "duration": "30",
+    "price": 2,
+    "description": "Připravte si lahodné ovocné palačinky. Smíchejte veškeré suroviny pro těsto (mouku, vejce, mléko, cukr) v misce a vytvořte hladké těsto. Rozpálte pánviči a nalijte trochu těsta. Pečte palačinky z obou stran do zlatova. Na závěr je naplňte oblíbeným ovocem, můžete přidat i med nebo javorový sirup. Posypte trochou moučkového cukru a podávejte teplé.",
+    "country": "cz",
+    "dish_category": [5, 8],
+    "recipe_category": [11],
+    "tolerance": [2],
+    "ingredient": [
+      {
+        "id": "8",
+        "name": "mouka",
+        "quantity": 150,
+        "unit": "g",
+        "necessary": "1"
+      },
+      {
+        "id": "9",
+        "quantity": 1,
+        "unit": "",
+        "necessary": "1",
+        "comment": "Celé vejce."
+      },
+      {
+        "id": "10",
+        "quantity": 300,
+        "unit": "ml",
+        "necessary": "1",
+        "comment": "Plnotučné mléko."
+      },
+      {
+        "id": "11",
+        "quantity": 20,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Cukr."
+      },
+      {
+        "name": "ovoce",
+        "quantity": "dle chuti",
+        "unit": "",
+        "necessary": "1",
+        "comment": "Oblíbené ovoce na naplnění, například jahody, banány nebo borůvky."
+      },
+      {
+        "name": "med",
+        "quantity": "dle chuti",
+        "unit": "",
+        "necessary": "0",
+        "comment": "Pro dochucení."
+      },
+      {
+        "name": "moučkový cukr",
+        "quantity": "na posypání",
+        "unit": "",
+        "necessary": "0"
+      }
+    ],
+    "author": "Petr Kašek"
+  }
+  

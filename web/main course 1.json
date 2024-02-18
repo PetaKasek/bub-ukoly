@@ -1,0 +1,73 @@
+{
+    "name": "Kuřecí pečeně s bramborovým pyré",
+    "difficulty": 3,
+    "duration": "60",
+    "price": 3,
+    "description": "Připravte si lahodnou kuřecí pečeně s bramborovým pyré. Kuřecí maso osolte, opepřete a dejte do pekáče. Přidejte olivový olej a vařte v troubě předehřáté na 180 °C asi 45 minut, nebo dokud není maso dokonale uvařené. Mezitím připravte bramborové pyré - oloupejte a nakrájejte brambory, vařte je ve vroucí vodě asi 15 minut a poté rozmixujte s máslem a mlékem. Podávejte kuřecí pečeně s bramborovým pyré a ozdobte čerstvou petrželí.",
+    "country": "cz",
+    "dish_category": [4, 7],
+    "recipe_category": [10],
+    "tolerance": [3],
+    "ingredient": [
+      {
+        "id": "2",
+        "name": "kuřecí maso",
+        "quantity": 500,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Očištěné a nakrájené na porce."
+      },
+      {
+        "id": "7",
+        "quantity": 3,
+        "unit": "lžíce",
+        "necessary": "1",
+        "comment": "Na polití kuřecího masa."
+      },
+      {
+        "id": "1",
+        "name": "voda",
+        "quantity": 1,
+        "unit": "l",
+        "necessary": "0",
+        "comment": "Pro vaření bramborového pyré."
+      },
+      {
+        "name": "brambory",
+        "quantity": 400,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Oloupejte a nakrájejte na kousky pro bramborové pyré."
+      },
+      {
+        "name": "máslo",
+        "quantity": 50,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Pro bramborové pyré."
+      },
+      {
+        "name": "mléko",
+        "quantity": 100,
+        "unit": "ml",
+        "necessary": "1",
+        "comment": "Pro bramborové pyré."
+      },
+      {
+        "name": "koření",
+        "quantity": "dle chuti",
+        "unit": "",
+        "necessary": "1",
+        "comment": "Olej, sůl, pepř, bylinky podle chuti."
+      },
+      {
+        "name": "petržel",
+        "quantity": "na ozdobu",
+        "unit": "",
+        "necessary": "0",
+        "comment": "Nasekejte čerstvou petržel na ozdobu."
+      }
+    ],
+    "author": "Petr Kašek"
+  }
+  

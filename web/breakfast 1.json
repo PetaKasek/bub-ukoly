@@ -1,0 +1,43 @@
+{
+    "name": "Ovesné kaše s ovocem",
+    "difficulty": 2,
+    "duration": "10",
+    "price": 2,
+    "description": "Připravte si lahodné ovesné kaše s ovocem. Do hrnce dejte 250 ml vody a přiveďte k varu. Přidejte 100 g ovesných vloček a vařte na mírném ohni asi 5 minut, nebo dokud nejsou kaše měkké. Podávejte s oblíbeným ovocem, například banány nebo jahody. Podle chuti můžete přidat med nebo skořici.",
+    "country": "cz",
+    "dish_category": [2, 4],
+    "recipe_category": [7],
+    "tolerance": [2],
+    "ingredient": [
+      {
+        "id": "1",
+        "name": "voda",
+        "quantity": 0.25,
+        "unit": "l",
+        "necessary": "1"
+      },
+      {
+        "name": "ovesné vločky",
+        "quantity": 100,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Můžete použít instantní ovesné vločky nebo tradiční ovesné vločky."
+      },
+      {
+        "id": "6",
+        "quantity": 5,
+        "unit": "g",
+        "necessary": "0",
+        "comment": "Podle chuti můžete přidat med."
+      },
+      {
+        "name": "ovoce",
+        "quantity": 200,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Použijte libovolné čerstvé ovoce podle své preference."
+      }
+    ],
+    "author": "Petr Kašek"
+  }
+  

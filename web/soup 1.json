@@ -1,0 +1,64 @@
+{
+    "name": "Domácí zeleninová polévka",
+    "difficulty": 2,
+    "duration": "30",
+    "price": 2,
+    "description": "Připravte si lahodnou domácí zeleninovou polévku. Do hrnce dejte 1 litr vody a přiveďte k varu. Přidejte nakrájenou zeleninu podle své preference, například brambory, mrkev, celer a cibuli. Vařte na mírném ohni asi 20 minut, dokud zelenina není měkká. Přidávejte koření podle chuti. Podávejte teplou a můžete přidat čerstvou nasekanou petržel na ozdobu.",
+    "country": "cz",
+    "dish_category": [3, 6],
+    "recipe_category": [8],
+    "tolerance": [2],
+    "ingredient": [
+      {
+        "id": "1",
+        "name": "voda",
+        "quantity": 1,
+        "unit": "l",
+        "necessary": "1"
+      },
+      {
+        "name": "brambory",
+        "quantity": 200,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Oloupejte a nakrájejte na kousky."
+      },
+      {
+        "id": "3",
+        "quantity": 150,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Oloupejte a nakrájejte na kousky."
+      },
+      {
+        "name": "cibule",
+        "quantity": 1,
+        "unit": "ks",
+        "necessary": "1",
+        "comment": "Nakrájejte na drobné kousky."
+      },
+      {
+        "name": "celer",
+        "quantity": 2,
+        "unit": "ks",
+        "necessary": "1",
+        "comment": "Nakrájejte na kousky."
+      },
+      {
+        "name": "koření",
+        "quantity": "dle chuti",
+        "unit": "",
+        "necessary": "0",
+        "comment": "Použijte sůl, pepř, a bylinky podle své chuti."
+      },
+      {
+        "name": "petržel",
+        "quantity": "na ozdobu",
+        "unit": "",
+        "necessary": "0",
+        "comment": "Nasekejte čerstvou petržel na ozdobu."
+      }
+    ],
+    "author": "Petr Kašek"
+  }
+  

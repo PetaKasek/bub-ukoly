@@ -1,0 +1,108 @@
+{
+    "name": "Kuřecí masala s basmati rýží",
+    "difficulty": 3,
+    "duration": "45",
+    "price": 3,
+    "description": "Připravte si lahodné kuřecí masala s basmati rýží. Kuřecí kousky osolte, opepřete a osmažte na oleji do zlatova. Přidejte cibuli, česnek, zázvor a dusíme do měkka. Přidejte rajčatový protlak, smetanu, a koření (garam masala, koriandr, kurkuma, kardamom). Vařte 20 minut na mírném ohni. Mezitím uvařte basmati rýži. Podávejte kuřecí masala s basmati rýží a posypte čerstvou nasekanou petrželí.",
+    "country": "cz",
+    "dish_category": [6, 9],
+    "recipe_category": [12],
+    "tolerance": [3],
+    "ingredient": [
+      {
+        "id": "2",
+        "name": "kuřecí kousky",
+        "quantity": 500,
+        "unit": "g",
+        "necessary": "1",
+        "comment": "Očištěné a nakrájené na porce."
+      },
+      {
+        "id": "7",
+        "quantity": 3,
+        "unit": "lžíce",
+        "necessary": "1",
+        "comment": "Olej na smažení kuřecího masa."
+      },
+      {
+        "name": "cibule",
+        "quantity": 1,
+        "unit": "ks",
+        "necessary": "1",
+        "comment": "Nakrájená na drobné kousky."
+      },
+      {
+        "name": "česnek",
+        "quantity": 2,
+        "unit": "stroužky",
+        "necessary": "1",
+        "comment": "Jemně nakrájený."
+      },
+      {
+        "name": "zázvor",
+        "quantity": 1,
+        "unit": "lžička",
+        "necessary": "1",
+        "comment": "Jemně nakrájený nebo nastrouhaný."
+      },
+      {
+        "name": "rajčatový protlak",
+        "quantity": 400,
+        "unit": "g",
+        "necessary": "1"
+      },
+      {
+        "name": "smetana",
+        "quantity": 150,
+        "unit": "ml",
+        "necessary": "1"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1,
+        "unit": "lžička",
+        "necessary": "1"
+      },
+      {
+        "name": "koriandr",
+        "quantity": 1,
+        "unit": "lžička",
+        "necessary": "1"
+      },
+      {
+        "name": "kurkuma",
+        "quantity": 0.5,
+        "unit": "lžičky",
+        "necessary": "1"
+      },
+      {
+        "name": "kardamom",
+        "quantity": 2,
+        "unit": "kouře",
+        "necessary": "1"
+      },
+      {
+        "id": "1",
+        "name": "voda",
+        "quantity": 1,
+        "unit": "l",
+        "necessary": "1",
+        "comment": "Pro vaření basmati rýže."
+      },
+      {
+        "name": "basmati rýže",
+        "quantity": 250,
+        "unit": "g",
+        "necessary": "1"
+      },
+      {
+        "name": "petržel",
+        "quantity": "na ozdobu",
+        "unit": "",
+        "necessary": "0",
+        "comment": "Nasekejte čerstvou petržel na ozdobu."
+      }
+    ],
+    "author": "Petr Kašek"
+  }
+  
