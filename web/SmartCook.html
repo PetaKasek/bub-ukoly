@@ -3,26 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recepty</title>
+    <title>SmartCook</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Recepty</h1>
-        <div id="filters">
-            <label for="category">Kategorie:</label>
-            <select id="category">
-                <option value="all">Všechny</option>
-                <option value="breakfast">Snídaně</option>
-                <option value="lunch">Obědy</option>
-                <option value="dinner">Večeře</option>
+        <h1>SmartCook</h1>
+        <div id="filter-form">
+            <label for="category-select">Filter:</label>
+            <select id="category-select">
+                <option value="all">difficulty</option>
+                <option value="Hlavní jídlo">duration</option>
+                <option value="Dezert">price</option>
+                
+                
             </select>
         </div>
     </header>
-    <main id="recipes">
+    <main>
         
+        <div class="recipe-window">
+            <h2>Oatmeal with fruit</h2>
+            <ul>
+                <li>difficulty: 2</li>
+                <li>duration: 10</li>
+                <li>price: 2</li>
+                
+            </ul>
+        </div>
+        <div class="recipe-window">
+            <h2>Homemade vegetable soup</h2>
+            <ul>
+                <li>difficulty: 2</li>
+                <li>duration: 30</li>
+                <li>price: 2</li>
+                
+            </ul>
+        </div>
+        <div class="recipe-window">
+            <h2>Roast chicken with mashed potatoes</h2>
+            <ul>
+                <li>difficulty: 3</li>
+                <li>duration: 60</li>
+                <li>price: 30</li>
+                
+                
+            </ul>
+        </div>
+        <div class="recipe-window">
+            <h2>Chicken masala with basmati rice</h2>
+            <ul>
+                <li>difficulty: 3</li>
+                <li>duration: 45</li>
+                <li>price: 3</li>
+                
+            </ul>
+        </div>
+        <div class="recipe-window">
+            <h2>Fruit pancakes</h2>
+            <ul>
+                <li>difficulty: 2</li>
+                <li>duration: 30</li>
+                <li>price: 2</li>
+                
+            </ul>
+        </div>
+       
+        </div>
     </main>
-
-    <script src="scripts.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
